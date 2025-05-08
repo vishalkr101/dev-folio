@@ -1,0 +1,12 @@
+.skill-icon {
+    animation: fadeIn 2s ease-in-out; /* Apply fade-in animation */
+  }
+  
+  @keyframes fadeIn {
+    0% {
+      opacity: 0; /* Start with invisible */
+    }
+    100% {
+      opacity: 1; /* End with fully visible */
+    }
+  }
