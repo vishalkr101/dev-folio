@@ -6,7 +6,7 @@ import Footer from "./Components/Footer";
 import "./App.css";
 
 function App() {
-
+  // This is the main component of the application
   return (
     <>
       <BrowserRouter>
